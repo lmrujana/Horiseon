@@ -25,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/*The following CSS rules turn an unorganized list into
+a navigation bar*/
 
 nav {
     padding-top: 15px;
@@ -48,9 +50,14 @@ a {
     text-decoration: none;
 }
 
+/*This rule sets the font size for all the paragraphs*/
+
 p {
     font-size: 16px;
 }
+
+/*This sets the banner image which makes the very first impression 
+of our webpag*/
 
 .hero {
     height: 800px;
