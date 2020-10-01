@@ -1,8 +1,10 @@
+/*This CSS rule resets the borders of the page and changes
+the box sizing for all the elemnts*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+} 
 
 body {
     background-color: #d9dcd6;
